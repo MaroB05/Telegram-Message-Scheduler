@@ -49,6 +49,3 @@ The current version only works for dark mode of Telegram
 6. Do not interfere with your mouse or keyboard while the script is running.
 
 Note: This script uses screen capture and image recognition. Ensure your Telegram window is visible and not obstructed during execution.
-
-## Caution
-This tool interacts directly with your GUI. Use it responsibly and in accordance with Telegram's terms of service.
