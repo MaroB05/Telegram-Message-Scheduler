@@ -13,7 +13,7 @@ This project is an automated tool for scheduling messages on Telegram. It uses c
 
 2. Install the required dependencies:
    ```
-   pip install opencv-python pyautogui pandas openpyxl matplotlib
+   pip install opencv-python pyautogui pandas 
    ```
 
 3. Ensure you have the necessary image files in the `Figures`, `Months`, and `States` directories.
