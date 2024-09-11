@@ -2,13 +2,13 @@
 
 ## Project Description
 This project is an automated tool for scheduling messages on Telegram. It uses computer vision and GUI automation to set dates, times, and send messages according to a predefined schedule.
-
+The current version only works for dark mode of Telegram
 ## Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/telegram-message-scheduler.git
-   cd telegram-message-scheduler
+   git clone https://github.com/MaroB05/Telegram-Message-Scheduler.git
+   cd Telegram-Message-Scheduler
    ```
 
 2. Install the required dependencies:
@@ -16,7 +16,7 @@ This project is an automated tool for scheduling messages on Telegram. It uses c
    pip install opencv-python pyautogui pandas 
    ```
 
-3. Ensure you have the necessary image files in the `Figures`, `Months`, and `States` directories.
+3. Ensure you have the necessary image files in the `Figures`, `Months`, and `States` directories. They are already provided in the repo
 
 ## Usage
 
